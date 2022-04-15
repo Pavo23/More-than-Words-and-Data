@@ -22,7 +22,7 @@ finding suggests that the conversational strategy of a sexual predator
 is above all to create an environment of constant compliance and
 agreement for their desires.
 
-/
+
 
 # Introduction
 
@@ -65,7 +65,7 @@ these discussions.
 
 `<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13PwFNj2K0MsZOgHJLD6iyPa8Sc1cAz_0u-0_VDSp3-c&font=Default&lang=en&initial_zoom=2&height=650" rel="Figure 1: Link to a historical timeline of child exploitation.">`{=html}![Foo](./Timeline.png)`</a>`{=html}
 
-/
+
 
 # Methodology
 
@@ -81,7 +81,7 @@ Associates from the not-for-profit organization Perverted-Justice.com
 pose as minors and worked with law enforcement agencies to convict these
 individuals with these chat logs.
 
-/
+
 
 ## Processing Data and Tool Use
 
@@ -124,7 +124,7 @@ The data was displayed as a cirrus (word cloud) and a trends graph to
 digitally organize the content of the transcripts and provide additional
 insight into the communication logs.
 
-/
+
 
 # Results
 
@@ -157,7 +157,7 @@ transcript A created in Voyant Tools."](./Transcript_A_Cirrus.png)
 !["Table 2: Trends Graph of the top five words used most frequently in
 transcript A created in Voyant Tools."](./Transcript_A_Graph.png)
 
-/
+
 
 Transcript B (Perverted Justice: Random Convictions Category), in
 comparison, contains only 3,230 total words. The word cloud (Table 3)
@@ -183,7 +183,7 @@ transcript B created in Voyant Tools."](./Transcript_B_Cirrus.png)
 !["Table 4: Trends Graph of the top five words used most frequently in
 transcript B created in Voyant Tools."](./Transcript_B_Graph.png)
 
-/
+
 
 Transcript C (Perverted Justice: Random Convictions Category) has a
 corpus with 10,492 words. The five words used most frequently (Table 5)
@@ -233,7 +233,7 @@ It is interesting to note that most of the five frequency words from all
 four transcripts are either words of agreement (yea, yes, ok, okay, ya,
 cool) or words expressing a preference (like, want).
 
-/
+
 
 # Discussion
 
@@ -276,7 +276,7 @@ Canadian Centre for Child Protection (2021) reports a 37% increase in
 online luring incidents in 2020 compared to the previous five-year
 average. We need more "agendas of empathy" (Nowviskie, 2014).
 
-/
+
 
 # References
 
@@ -286,84 +286,84 @@ offenders: Implications for our understanding of predatory sexual
 behavior in an increasingly computer-mediated world. *Child abuse &
 neglect*, 44.
 
-/
+
 
 Canadian Centre for Child Protection. (2021). *New Statistics Canada
 crime data shows victimization of children intensified during pandemic*.
 Retrieved February 24, 2022, from
 https://protectchildren.ca/en/press-and-media/news-releases/2021/stats-canada-crime-data-pandemic
 
-/
+
 
 Chatcoder. (n.d.). *Data*. https://www.chatcoder.com/data.html
 
-/
+
 
 Chiu, M. M., Seigfried-Spellar, K. C., & Ringenberg, T. R. (2018).
 Exploring detection of contact vs. fantasy online sexual offenders in
 chats with minors: Statistical discourse analysis of self-disclosure and
 emotion words. *Child abuse & neglect*, 81.
 
-/
+
 
 De Camp, V. (2006). *Vamale_692005*. Perverted Justice. Retrieved April
 9, 2022, from http://www.perverted-justice.com/?archive=vamale_692005
 
-/
+
 
 Drucker, J. (2011). *Humanities approaches to graphical display*. DHQ:
 Digital Humanities Quarterly: Humanities Approaches to Graphical
 Display. Retrieved February 24, 2022, from
 http://www.digitalhumanities.org//dhq/vol/5/1/000091/000091.html
 
-/
+
 
 Egan, V., Hoskinson, J., & Shewan, D. (2011). *Perverted Justice: A
 Content Analysis of the Language Used by Offenders Detected Attempting
 to Solicit Children for Sex*. Antisocial Be-havior: Causes, Correlations
 and Treatments. 20.
 
-/
+
 
 Government of Canada. (2021). *Infographic - Online Child Sexual
 Exploitation*. Retrieved Febru-ary 24, 2022, from
 https://www.canada.ca/en/public-safety-canada/campaigns/online-child-sexual-exploitation/infographic-online-child-sexual-exploitation.html
 
-/
+
 
 Harvey, D. (2004). *Fleet_Captain_Jaime_Wolfe*. Perverted Justice.
 Retrieved February 24, 2022, from
 http://www.perverted-justice.com/index.php?archive=fleet_captain_jaime_wolfe&nocomm=true
 
-/
+
 
 Nowviskie, B. (2014). *Digital Humanities in the anthropocene*. Bethany
 Nowviskie. Retrieved April 11, 2022, from
 https://nowviskie.org/2014/anthropocene/
 
-/
+
 
 Perverted Justice. (n.d.). *Archives*.
 http://www.perverted-justice.com/index.php?archive=full
 
-/
+
 
 Retired Contributor. (2016a). *Nice Guy*. Perverted Justice. Retrieved
 February 24, 2022, from
 http://www.perverted-justice.com/?archive=Nice+Guy
 
-/
+
 
 Retired Contributor. (2016b). *Louisianamaster1983*. Perverted Justice.
 Retrieved April 9, 2022, from
 http://www.perverted-justice.com/?archive=louisianamaster1983
 
-/
+
 
 Sinclair, S., & Rockwell, G. (2016). *Voyant Tools*. \[Web
 Application\]. Web. http://voyant-tools.org/.
 
-/
+
 
 Westlake, B. G. (2020). The past, present, and future of online child
 sexual exploitation: Summarizing the evolution of production,
