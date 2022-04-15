@@ -63,8 +63,7 @@ these discussions.
 
 ### Historical Timeline of Child Exploitation
 
-`<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13PwFNj2K0MsZOgHJLD6iyPa8Sc1cAz_0u-0_VDSp3-c&font=Default&lang=en&initial_zoom=2&height=650" rel="Figure 1: Link to a historical timeline of child exploitation.">`{=html}![Foo](./Timeline.png)`</a>`{=html}
-
+[![Foo](./Timeline.png)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=13PwFNj2K0MsZOgHJLD6iyPa8Sc1cAz_0u-0_VDSp3-c&font=Default&lang=en&initial_zoom=2&height=650)
 
 
 # Methodology
